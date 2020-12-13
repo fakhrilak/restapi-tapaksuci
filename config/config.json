@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "tapaksuciku",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "xtmopuxffnnfrq",
+    "password": "432f94df22e5a00618a90b1ea44050921689cfe8eeb4ac24357b5ba132b2792a",
+    "database": "d1kske473370hn",
+    "host": "ec2-52-202-66-191.compute-1.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
